@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright 2013 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+<resources>
+    <string name="app_name">La Gramola</string>
+    <string name="menu_refresh">Recargar</string>
+
+    <string name="ayuda">Ayuda</string>
+    <string name="borrar_evento">Borrar evento</string>
+    <string name="añadir_evento">Añadir evento</string>
+
+    <string name="main_description">La Gramola Café, en la calle Barón de San Petrillo 9, un bar sencillo y encantador en un bohemio barrio de Valencia conocido como Benimaclet. Desde la calle, su fachada te invita a entrar. Es un lugar ideal para tomar un café o una cerveza mientras se mantiene una charla tranquilamente o lees un libro, transformándose los fines de semana en local animado. No debes olvidarte de probar sus copas y mojitos caseros, hechos con mucho cariño. Buena selección musical desde jazz, blues, rnr, r\u0026b, soul, 60\'s, garage... Con su pequeño escenario intentaremos promocionar las actuaciones en directo así como la actuación espontánea. Sus paredes siempre dispuestas para tus exposiciones.</string>
+
+    <string name="API_KEY">AIzaSyCPFs32B6F7K5cLwK1DNNI3MY2rPRe8U64</string>
+    <string name="appVersionTxt">App version</string>
+    <string name="appVersionNumber">1.0.1</string>
+    <string name="OSLicenses">Open source licenses</string>
+    <string name="myEmailAddress">marcosedoatienza@gmail.com</string>
+    <string name="feedbackMail">Feedback via email</string>
+    <string name="headerOSLicenses">La Gramola is built using open source software and is licensed under the Apache License 2.0.\n</string>
+
+    <string name="boton_agenda">Agenda de conciertos</string>
+    <string name="boton_administrador">Administrador de eventos</string>
+    <string name="boton_agregar_evento">Accept</string>
+    <string name="button_back">Back</string>
+    <string name="button_continue">Continue</string>
+    <string name="button_accept">Accept</string>
+    <string name="button_select_image">Select image</string>
+    <string name="button_ok">Ok</string>
+    <string name="button_cancel">Cancel</string>
+
+    <string name="txt_description">Descripción</string>
+    <string name="txt_titulo">Título</string>
+    <string name="txt_fecha">Fecha</string>
+    <string name="txt_cartel">Cartel</string>
+    <string name="txt_hora">Hora</string>
+
+    <string name="hint_hora">hh:mm</string>
+    <string name="hint_fecha">dd/mm/yyyy</string>
+    <string name="ctxlst_evento_op1">Show image</string>
+    <string name="ctxlst_evento_op2">Show event detail</string>
+    <string name="editar_evento">Editar evento</string>
+    <string name="ctxlst_evento_op4">Delete event</string>
+
+
+    <string name="profile_image">Imagen de perfil</string>
+    <string name="perfilusuario">Perfil de usuario</string>
+    <string name="nombreusuario">Nombre de usuario</string>
+    <string name="hint_nombreusuario">Escriba su nombre de usuario</string>
+
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <string name="mensaje_enviado">Mensaje enviado</string>
+    <string name="error_enviando_mensaje">Error enviando mensaje</string>
+
+    <string name="quienes_somos">¿Quiénes somos?</string>
+    <string name="donde_estamos">¿Dónde estamos?</string>
+    <string name="button_save_changes">Guardar</string>
+
+    <string name="hintCommentTxt">Publica un comentario</string>
+    <string name="btn_rispond">Responde</string>
+    <string name="btn_publish">Publica</string>
+    <string name="btnShowMore">Mostrar todos</string>
+    <string name="event_deleted">Evento borrado</string>
+
+
+
+    <string name="server_not_responding">"Server risponse time exceeded. Try again later."</string>
+    <string name="connection_error">"Connection error"</string>
+    <string name="unknown_connection_error">Unknown connection error</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="malformed_URL_exception">Malformed URL exception</string>
+
+    <string name="loading_groups">Loading groups list</string>
+    <string name="error_checking_updates">Error checking updates</string>
+    <string name="error_sending_HTTP_request">Error sending HTTP REQUEST</string>
+    <string name="group_description_hint">Write something about this group ...</string>
+    <string name="group_description">Group description</string>
+
+    <string name="GroupBy">Group by</string>
+    <string name="sortByGroupName">Group name</string>
+    <string name="sortByDate">Date</string>
+    <string name="showOnlyFollowed">Show only followed groups</string>
+    <string name="hideExpiredEvents">Hide expired events</string>
+
+    <string name="loading_dialog">Cargando ...</string>string>
+    <string name="write_notification_hint">"Escribe un mensaje"</string>string>
+    <string name="event_has_been_modified">"El evento ha sido modificado. ¿Quieres enviar una notificación ?"</string>string>
+    <string name="event_has_been_created">"El evento ha sido creado. ¿Quieres enviar una notificación?"</string>string>
+    <string name="saving_event">"Guardando evento ..."</string>
+
+    <string name="cartel_concierto">"Cartel del concierto"</string>
+
+</resources>

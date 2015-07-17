@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:support="http://schemas.android.com/apk/res-auto" >
+
+
+    <group
+        android:id="@+id/base_group">
+        <item
+            android:id="@+id/action_profile"
+            android:title="@string/perfilusuario"
+            support:showAsAction="never"/>
+        <item
+            android:id="@+id/action_help"
+            android:icon="@drawable/ic_menu_help"
+            android:title="@string/ayuda"
+            support:showAsAction="never"/>
+    </group>
+
+    <group
+        android:id="@+id/tab_listaeventos_admin_group"
+        android:visible="false">
+        <item
+            android:id="@+id/action_añadirEvento"
+            android:icon="@drawable/ic_menu_add"
+            android:title="@string/añadir_evento"
+            support:showAsAction="ifRoom"/>
+    </group>
+
+</menu><!-- From: file:/C:/Archivos%20de%20programa/Android/AndroidWorkspace/LaGramola/Application/src/main/res/menu/options_menu_main.xml -->

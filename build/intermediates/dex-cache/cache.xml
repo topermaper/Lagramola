@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Archivos de programa\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="C:\Archivos de programa\Android\AndroidWorkspace\ActionBarCompat-Styled\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-d7983ab5bb66686e29fbde33b5988808da1810e4.jar" />
+    </item>
+    <item
+        jar="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\pre-dexed\admin\release\classes-06be48732c510e8b37e242012690bff02b9171eb.jar" />
+    </item>
+    <item
+        jar="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\pre-dexed\admin\release\classes-cbe98eb70a6ba75cf686688bd8ee000fa8f86518.jar" />
+    </item>
+    <item
+        jar="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\pre-dexed\admin\release\classes-4bf590fac87bb4c2de7e3c71d4e39e8ff307786a.jar" />
+    </item>
+    <item
+        jar="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\pre-dexed\admin\release\classes-953923fca74352183ca134b551478abb99eaa9e1.jar" />
+    </item>
+    <item
+        jar="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\pre-dexed\admin\release\classes-ff36e5bb9578321b2a81be75cab9a011aded9cf7.jar" />
+    </item>
+    <item
+        jar="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\pre-dexed\admin\release\classes-f10bdb03d54a05e8509da00ede824f9f0441dd5a.jar" />
+    </item>
+    <item
+        jar="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\pre-dexed\admin\release\classes-753e8ab22873dbe2860c518554ba253f3ae18574.jar" />
+    </item>
+    <item
+        jar="C:\Archivos de programa\Android\AndroidWorkspace\ActionBarCompat-Styled\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="C:\Archivos de programa\Android\AndroidWorkspace\ActionBarCompat-Styled\Application\build\intermediates\pre-dexed\debug\classes-d52c0a3a9cfe392bff63c51825318fd94c1d1769.jar" />
+    </item>
+    <item
+        jar="C:\Archivos de programa\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\pre-dexed\admin\release\support-annotations-22.2.0-a57964763753662229bff152879b01bc8a402ab2.jar" />
+    </item>
+    <item
+        jar="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\pre-dexed\admin\release\classes-10746dd3e074e698a8d265696538e7609f18a5e8.jar" />
+    </item>
+    <item
+        jar="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\pre-dexed\admin\release\classes-923ca336906c7e5919910010c688979c10cad46f.jar" />
+    </item>
+    <item
+        jar="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\pre-dexed\admin\release\classes-3f30f4d2e5436c19499da7c8e2406c48757146e1.jar" />
+    </item>
+    <item
+        jar="C:\Archivos de programa\Android\AndroidWorkspace\ActionBarCompat-Styled\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="C:\Archivos de programa\Android\AndroidWorkspace\ActionBarCompat-Styled\Application\build\intermediates\pre-dexed\debug\classes-819f1a5ec9032a225464f3a3b68d43a19773e552.jar" />
+    </item>
+    <item
+        jar="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\pre-dexed\admin\release\classes-2524438888d278cdbeac5cadbcec832cf9bfb03a.jar" />
+    </item>
+    <item
+        jar="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\pre-dexed\admin\release\classes-1adf7e43b84771bcc904cd7f2956eeca72fdcfbd.jar" />
+    </item>
+    <item
+        jar="C:\Archivos de programa\Android\AndroidWorkspace\ActionBarCompat-Styled\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="C:\Archivos de programa\Android\AndroidWorkspace\ActionBarCompat-Styled\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-7e15889de194b2b55ed3901f66ce9ae2f3f9fcde.jar" />
+    </item>
+    <item
+        jar="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\pre-dexed\admin\release\classes-1f3c965c539ffb83a0567f689a42b618d67a9487.jar" />
+    </item>
+    <item
+        jar="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\pre-dexed\admin\release\classes-c9d57be43c4355cdc401e004555d039c6ceb7ca1.jar" />
+    </item>
+    <item
+        jar="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\pre-dexed\admin\release\internal_impl-22.2.0-d79ecc408386ff0f0e59160399697766e2203c3a.jar" />
+    </item>
+    <item
+        jar="C:\Archivos de programa\Android\AndroidWorkspace\ActionBarCompat-Styled\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="C:\Archivos de programa\Android\AndroidWorkspace\ActionBarCompat-Styled\Application\build\intermediates\pre-dexed\debug\classes-b29eff77f89fc821678a72de83b5697c99cfcca5.jar" />
+    </item>
+    <item
+        jar="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\pre-dexed\admin\release\classes-6e64ecf28bbf2989d9cb7fcb721d1d3b8576a59d.jar" />
+    </item>
+    <item
+        jar="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\pre-dexed\admin\release\classes-d57bacf501f362f59efbbf9812a06d5734645079.jar" />
+    </item>
+    <item
+        jar="C:\Archivos de programa\Android\AndroidWorkspace\ActionBarCompat-Styled\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9742ced04aafd9ac97dd2c66c1aa0e32d2ae7e54">
+        <dex dex="C:\Archivos de programa\Android\AndroidWorkspace\ActionBarCompat-Styled\Application\build\intermediates\pre-dexed\debug\classes-b5b1667aeab75760fae9113ee5ac8b591600d3ea.jar" />
+    </item>
+    <item
+        jar="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\pre-dexed\admin\release\classes-d4ea33bceb29820c4a5058a0439add61465a703d.jar" />
+    </item>
+    <item
+        jar="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\pre-dexed\admin\release\classes-345915cf12f4166399fec8a9c6c2e9c1a46b8253.jar" />
+    </item>
+    <item
+        jar="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\pre-dexed\admin\release\classes-183dd7c13f90b5f451945c1847fbb414aedaa26a.jar" />
+    </item>
+    <item
+        jar="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\pre-dexed\admin\release\classes-0a2b73599f5ba7a6917d7febd2114351a1d43172.jar" />
+    </item>
+    <item
+        jar="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\pre-dexed\admin\release\classes-8b21e72929c2285cd52ef561e5670b1cffbb3bfb.jar" />
+    </item>
+    <item
+        jar="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9742ced04aafd9ac97dd2c66c1aa0e32d2ae7e54">
+        <dex dex="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\pre-dexed\admin\release\classes-9760e99dedc43c833e23086990da320930ef0943.jar" />
+    </item>
+    <item
+        jar="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\pre-dexed\admin\release\classes-2a4f2fac2f0df76e5b6f03631c62f2fb3bfdc303.jar" />
+    </item>
+    <item
+        jar="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\pre-dexed\admin\release\classes-c7fafe0505fb2ed609e803b7ffe3afbe744d599a.jar" />
+    </item>
+    <item
+        jar="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\exploded-aar\com.android.support\design\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\Archivos de programa\Android\AndroidWorkspace\LaGramola\Application\build\intermediates\pre-dexed\admin\release\classes-3a022910b1a90c5a636e5c2f527292f62c6cd0d6.jar" />
+    </item>
+
+</items>
